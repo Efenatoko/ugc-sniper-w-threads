@@ -40,7 +40,7 @@ This is essentially J3ldo's sniper paid rereleased, because who want's to pay fo
 ### [Click me to watch the unofficial installation guide](https://youtu.be/tLiNCI8bzSo)
 
 ### Step 1
-Install python. You first need to install python you can do this [here](https://www.python.org/download)
+Install python. You first need to install python [3.11.x]you can do this [here](https://www.python.org/download)
 ### Step 2
 Click on code > download zip. This will download the program as a .zip file and after that unpack the installed ugc threaded sniper into a directory of choice.
  
